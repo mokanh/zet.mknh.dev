@@ -1,3 +1,9 @@
+---
+title: On Domain Knowledge
+draft: 
+tags:
+  - seedlings
+---
 
 Our solution as software engineers to the given problem has to be on the sweet spot between under-engineering and over-engineering. Understanding the business will help a lot to weigh those solutions. Here is how to start:
 

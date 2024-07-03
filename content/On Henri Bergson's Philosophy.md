@@ -1,7 +1,14 @@
+---
+title: On Henri Bergson's Philosophy
+draft: 
+tags:
+  - seedlings
+  - philosophy
+---
 
 ##  The concept of multiplicity
 
-In phenomenology, the multiplicity of phenomena is always related to a unified consciousness. In Bergsonism, “the immediate data of consciousness” (les données immédiates de la conscience) are a multiplicity. Here, two prepositions, “to” and “of,” indicate perhaps the most basic difference between Bergsonism and phenomenology.
+In [[Phenomenology| phenomenology]], the multiplicity of phenomena is always related to a unified consciousness. In Bergsonism, “the immediate data of consciousness” (les données immédiates de la conscience) are a multiplicity. Here, two prepositions, “to” and “of,” indicate perhaps the most basic difference between Bergsonism and phenomenology.
 
 - Qualitative Multiplicity
   The idea of qualitative multiplicities is difficult to understand, although it is the heart of Bergson’s thinking.

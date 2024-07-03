@@ -1,3 +1,10 @@
+---
+title: On "Writing Well" by William Zinsser
+draft: false
+tags:
+  - books
+  - seedlings
+---
 "On Writing Well" by William Zinsser is a timeless guide to effective writing. Here are some key takeaway notes:
 
 1. **Clarity**: Strive for clarity in writing. Make your writing easy to understand and avoid unnecessary jargon or complexity.

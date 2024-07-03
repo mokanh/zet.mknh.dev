@@ -1,1 +1,0 @@
-TV Series Amerika favorit saya. Mengisahkan perjalanan [[Ted Mosby]] bertemu dengan Ibu dari anak-anaknya.

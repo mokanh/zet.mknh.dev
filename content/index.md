@@ -1,6 +1,8 @@
 ---
 title: Welcome to moka's digital garden
 draf: false
+tags:
+  - evergreens
 ---
 
 

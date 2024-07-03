@@ -1,4 +1,11 @@
-Hie"Writing to Learn" by William Zinsser offers invaluable insights into the connection between writing and learning. Here are some key takeaway notes:
+---
+title: On "Writing to Learn" by William Zinsser
+draft: false
+tags:
+  - books
+  - seedlings
+---
+"Writing to Learn" by William Zinsser offers invaluable insights into the connection between writing and learning. Here are some key takeaway notes:
 
 1. **Writing as a Tool for Learning**: Zinsser emphasizes that writing is not just a means of communication but also a powerful tool for learning. When we write about a subject, we engage deeply with it, clarify our thoughts, and solidify our understanding.
     

@@ -1,5 +1,11 @@
+---
+title: On Developer Productivity
+draft: 
+tags:
+  - seedlings
+---
 
-Developer productivity measures a development team’s ability to produce and deliver adept code directly ==related to a company’s business outcomes==. It can be calculated within any timeframe using various metrics, ==focusing on real-time team productivity rather than individual productivity==.
+Developer productivity measures a development team’s ability to produce and deliver adept code directly related to a company’s business outcomes. It can be calculated within any timeframe using various metrics, focusing on real-time team productivity rather than individual productivity.
 
 ### Outcomes vs. outputs
 ![Please set an alt value for this image...](https://www.pluralsight.com/content/dam/pluralsight2/siege-blog-assets/measuring-developer-productivity.resize.771.png)
