@@ -36,7 +36,10 @@ export default ((userOpts?: Partial<Options>) => {
     const pages = allFiles.filter(opts.filter).sort(opts.sort)
     const remaining = Math.max(0, pages.length - opts.limit)
 
-    const isHidden = true
+    const isHidden = false
+    
+    console.log('externalResources', );
+    
     
     return (
       <div class={classNames(displayClass, `recent-notes ${isHidden ? 'hide' : ''}`)}>

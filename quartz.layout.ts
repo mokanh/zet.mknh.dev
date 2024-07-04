@@ -23,6 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.RecentNotes({
       title: "📝 Blog Post",
       showTags: false,
@@ -37,7 +38,6 @@ export const defaultContentPageLayout: PageLayout = {
       filter: (f) => f.frontmatter?.tags?.includes('evergreen') || false,
       linkToMore: "tags/evergreen" as SimpleSlug,
     }),),
-    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Graph(),
