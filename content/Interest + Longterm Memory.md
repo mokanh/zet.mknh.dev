@@ -1,11 +1,15 @@
 ---
 tags:
-  - "#seedlings"
+  - seedlings
+  - blog
 title: 
 draft:
 ---
 Interest = "knowledge emotion"
 Longterm memory = "emotion + knowledge"
+
+
+## Interest
 
 saya menduga ada keterkaitan antara minat (interest) dengan memori jangka panjang (long-term memory).
 
@@ -13,4 +17,9 @@ minat dapat mendorong kita untuk terus mengaktifkan rasa penasaran akan apa yang
 
 banyaknya informasi yang kita dapat membuat pengetahuan kita tidak komprehensif dan hanya terpecah-pecah. sedangkan kekuatan dari pengetahuan itu adalah bagaimana kita menggunakan pengetahuan yang kita miliki dalam menghadapi permasalah dalam dunia. [[“Any Fool Can Know, The Point is to Understand.“]]
 
-	🟤
+	🟤📝 ♻️
+
+
+## Longterm Memory
+
+lakshdkjahks asdjhjkalsjd asjdlkasjdlkasj aslkdklasjkldja askldjlaksjdlkas dasljdlkasjdklajs jlaksjdlkasn

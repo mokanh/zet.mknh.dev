@@ -1,6 +1,7 @@
 .content-meta {
   margin-top: 0;
   color: var(--gray);
+  font-size: small;
 
   &[show-comma="true"] {
     > span:not(:last-child) {

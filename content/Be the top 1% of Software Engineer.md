@@ -2,7 +2,7 @@
 title: Be the top 1% of Software Engineer
 draft: 
 tags:
-  - "#seeds"
+  - seeds
 ---
 
 - Influence is about likability and credibility
