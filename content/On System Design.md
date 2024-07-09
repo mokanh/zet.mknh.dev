@@ -2,7 +2,7 @@
 title: On System Design
 draft: 
 tags:
-  - "#seedlings"
+  - seedlings
 ---
 
 The system design skill is something that will differentiate you from the other peers. Practicing system design with different problems will also give you ideas on the things that you don’t know that you don’t know.

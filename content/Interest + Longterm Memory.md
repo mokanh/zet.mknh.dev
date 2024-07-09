@@ -2,7 +2,7 @@
 tags:
   - seedlings
   - blog
-title: 
+title: Interest + Longterm Memory
 draft:
 ---
 Interest = "knowledge emotion"
