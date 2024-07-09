@@ -6,11 +6,12 @@ tags:
   - philosophy
 ---
 
-##  The concept of multiplicity
+##  Konsep Keberagaman
 
-In [[Phenomenology| phenomenology]], the multiplicity of phenomena is always related to a unified consciousness. In Bergsonism, “the immediate data of consciousness” (les données immédiates de la conscience) are a multiplicity. Here, two prepositions, “to” and “of,” indicate perhaps the most basic difference between Bergsonism and phenomenology.
+Dalam [[Fenomenologi|fenomenologi]], keberagaman fenomena selalu dikaitkan dengan kesatuan kesadaran. Dalam Bergsonisme, “data langsung dari kesadaran” (les données immédiates de la conscience) adalah suatu keberagaman. Di sini, dua preposisi, “to” dan “of,” mungkin menunjukkan perbedaan paling mendasar antara Bergsonisme dan fenomenologi.
 
-- Qualitative Multiplicity
+- Keberagaman Kualitatif
+  
   The idea of qualitative multiplicities is difficult to understand, although it is the heart of Bergson’s thinking.
   
   Qualitative multiplicities are temporal; qualitative multiplicity defines the duration.
