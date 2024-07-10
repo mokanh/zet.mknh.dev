@@ -28,4 +28,4 @@ tags:
 10. **Honesty and Authenticity**: Be honest and authentic in your writing. Readers appreciate sincerity and authenticity more than artificiality.
     
 
-These are just a few of the many valuable lessons from "On Writing Well" that can help you become a better writer.
+> 	"clear thinking becomes clear writing, one can't exist without the other" - William Zinsser.

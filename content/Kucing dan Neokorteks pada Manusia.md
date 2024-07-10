@@ -1,6 +1,6 @@
 ---
 title: Kucing dan Neokorteks Manusia
-draft: false
+draft: 
 tags:
   - seedlings
   - blog
