@@ -26,14 +26,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.RecentNotes({
       title: "📝 Blog Post",
       showTags: false,
-      limit: 4,
+      limit: 3,
       filter: (f) => f.frontmatter?.tags?.includes('blog') || false,
       linkToMore: "tags/blog" as SimpleSlug,
     }),),
     Component.DesktopOnly(Component.RecentNotes({
       title: "♻️ Evergreen",
       showTags: false,
-      limit: 4,
+      limit: 3,
       filter: (f) => f.frontmatter?.tags?.includes('evergreen') || false,
       linkToMore: "tags/evergreen" as SimpleSlug,
     }),),
