@@ -13,6 +13,9 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
 ArticleTitle.css = `
 .article-title {
   margin: 2rem 0 0 0;
+  background: -webkit-linear-gradient(#e05555, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 `
 

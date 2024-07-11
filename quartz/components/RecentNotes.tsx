@@ -35,7 +35,7 @@ export default ((userOpts?: Partial<Options>) => {
     const opts = { ...defaultOptions(cfg), ...userOpts }
     const pages = allFiles.filter(opts.filter).sort(opts.sort)
     const remaining = Math.max(0, pages.length - opts.limit)
-    
+
     return (
       <div class={classNames(displayClass, `recent-notes`)}>
         <h3>{opts.title ?? i18n(cfg.locale).components.recentNotes.title}</h3>
@@ -56,7 +56,7 @@ export default ((userOpts?: Partial<Options>) => {
                   </div>
                   {page.dates && (
                     <p class="meta">
-                      <Date date={page.dates.created} locale={cfg.locale} />
+                      <Date date={getDate(cfg, page) ?? page.dates.created} locale={cfg.locale} />
                     </p>
                   )}
                   {opts.showTags && (
