@@ -1,0 +1,2 @@
+
+> "Ties that link you to people like yourself are called bonding social capital… And bridging social capital is your ties to people unlike yourself. So my ties to people of a different generation or a different gender or a different religion or a different politic or whatever, that’s my bridging social capital. I’m not saying 'bridging good, bonding bad,' because if you get sick, the people who bring you chicken soup are likely to reflect your bonding social capital. But I am saying that in a diverse society like ours, we need a lot of bridging social capital."
