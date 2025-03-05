@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Latar Belakang
-Bahasa programan ini lahir dan di besarkan oleh salah satu perusahaan layanan komputer asal Amerika Serikat, [[**Netscape Communications**|Netscape]]. 
+Bahasa programan ini lahir dan di besarkan oleh salah satu perusahaan layanan komputer asal Amerika Serikat, [[Netscape Communications|Netscape]]. 
 
 ## Pengertian
 
