@@ -216,3 +216,5 @@ type User struct {
 ## Kesimpulan
 
 Memahami tipe data dasar Go adalah langkah penting dalam pengembangan. Setiap tipe data memiliki karakteristik dan penggunaan yang spesifik. Pemilihan tipe data yang tepat akan membuat kode lebih efisien dan mudah dipahami.
+
+Related Docs: [[Map dan Struct]]
