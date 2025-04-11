@@ -1,0 +1,123 @@
+# Panduan Belajar Backend Go
+
+## Daftar File Pembelajaran
+
+### 1. Dasar Golang
+- [[01-Dasar-Golang]]
+  - [[Pengenalan Golang]]
+  - [[Struktur Program Golang]]
+  - [[Tipe Data Dasar]]
+  - [[Control Flow]]
+  - [[Fungsi]]
+  - [[Error Handling]]
+  - [[Interface]]
+  - [[Pointer]]
+  - [[Package Management]]
+
+### 2. Struktur Data dan Algoritma
+- [[02-Struktur-Data-dan-Algoritma]]
+  - [[Array dan Slice Lanjutan]]
+  - [[Linked List]]
+  - [[Stack dan Queue]]
+  - [[Tree]]
+  - [[Graph]]
+  - [[Hash Table]]
+  - [[Sorting Algorithms]]
+  - [[Searching Algorithms]]
+  - [[Algorithm Complexity]]
+
+### 3. Concurrency dan Goroutines
+- [[03-Concurrency-dan-Goroutines]]
+  - [[Goroutines]]
+  - [[Channels]]
+  - [[Select Statement]]
+  - [[Sync Package]]
+  - [[Context Package]]
+  - [[Race Conditions]]
+  - [[Worker Pools]]
+  - [[Concurrency Patterns]]
+  - [[Error Handling in Concurrency]]
+
+### 4. Web Development
+- [[04-Web-Development]]
+  - [[HTTP Package]]
+  - [[Routing]]
+  - [[Request Processing]]
+  - [[Response Handling]]
+  - [[Templates]]
+  - [[Session Management]]
+  - [[Web Security]]
+  - [[Web Frameworks]]
+  - [[Performance Optimization]]
+
+### 5. Database
+- [[05-Database]]
+  - [[Database Basics]]
+  - [[SQL Database]]
+  - [[ORM (Object Relational Mapping)]]
+  - [[NoSQL Database]]
+  - [[Query Optimization]]
+  - [[Data Migration]]
+  - [[Caching]]
+  - [[Database Security]]
+  - [[Database Testing]]
+
+### 6. API Development
+- [[06-API-Development]]
+  - [[REST API Basics]]
+  - [[API Design]]
+  - [[Authentication]]
+  - [[API Documentation]]
+  - [[API Testing]]
+  - [[API Security]]
+  - [[API Performance]]
+  - [[API Versioning]]
+  - [[API Monitoring]]
+
+### 7. Testing
+- [[07-Testing]]
+  - [[Unit Testing]]
+  - [[Integration Testing]]
+  - [[Benchmark Testing]]
+  - [[Mocking]]
+  - [[Test Organization]]
+  - [[Test Coverage]]
+  - [[Property Testing]]
+  - [[Test Automation]]
+  - [[Testing Best Practices]]
+
+### 8. Security
+- [[08-Security]]
+  - [[Authentication]]
+  - [[Authorization]]
+  - [[Data Security]]
+  - [[API Security]]
+  - [[Web Security]]
+  - [[Cryptography]]
+  - [[Security Testing]]
+  - [[Security Best Practices]]
+  - [[Incident Response]]
+
+### 9. Deployment
+- [[09-Deployment]]
+  - [[Build Process]]
+  - [[Containerization]]
+  - [[Orchestration]]
+  - [[CI/CD]]
+  - [[Cloud Platforms]]
+  - [[Monitoring]]
+  - [[Configuration Management]]
+  - [[High Availability]]
+  - [[Performance Optimization]]
+
+### 10. Best Practices
+- [[10-Best-Practices]]
+  - [[Code Organization]]
+  - [[Code Style]]
+  - [[Design Patterns]]
+  - [[Performance]]
+  - [[Error Handling]]
+  - [[Testing]]
+  - [[Documentation]]
+  - [[Security]]
+  - [[Maintenance]]
