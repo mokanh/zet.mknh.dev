@@ -23,13 +23,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.RecentNotes({
-      title: "📝 Blog Post",
-      showTags: false,
-      limit: 3,
-      filter: (f) => f.frontmatter?.tags?.includes('blog') || false,
-      linkToMore: "tags/blog" as SimpleSlug,
-    }),),
+    // Component.DesktopOnly(Component.RecentNotes({
+    //   title: "📝 Blog Post",
+    //   showTags: false,
+    //   limit: 3,
+    //   filter: (f) => f.frontmatter?.tags?.includes('blog') || false,
+    //   linkToMore: "tags/blog" as SimpleSlug,
+    // }),),
     Component.DesktopOnly(Component.RecentNotes({
       title: "♻️ Evergreen",
       showTags: false,
