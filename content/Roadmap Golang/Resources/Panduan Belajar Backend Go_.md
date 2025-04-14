@@ -16,7 +16,7 @@
 
 ### 2. Struktur Data dan Algoritma
 - [[02-Struktur-Data-dan-Algoritma]]
-  - [[Array dan Slice Lanjutan]]
+  - [[Array dan Slice]]
   - [[Linked List]]
   - [[Stack dan Queue]]
   - [[Tree]]
@@ -66,7 +66,7 @@
 - [[06-API-Development]]
   - [[REST API Basics]]
   - [[API Design]]
-  - [[Authentication]]
+  - [[Authentication and Authorization]]
   - [[API Documentation]]
   - [[API Testing]]
   - [[API Security]]

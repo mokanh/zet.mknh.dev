@@ -18,7 +18,7 @@ Pengembangan API adalah salah satu aspek penting dalam backend development. Bagi
    - Query parameters
    - Response format
 
-3. [[Authentication]]
+1. [[Authentication and Authorization]]
    - JWT
    - OAuth2
    - API keys
