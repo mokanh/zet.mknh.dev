@@ -1,3 +1,3 @@
 
-1. [[Panduan Belajar Backend Go_|Belajar Golang untuk Web Development]]
-2. ----
+### 1. [[00-index|Roadmap Belajar Javascript Web]]
+### 2. [[Belajar Golang untuk Web Development|Belajar Golang untuk Web Development]]

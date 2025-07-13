@@ -1,0 +1,2 @@
+
+Tahap awal ini adalah yang paling krusial. Fokusnya adalah pada bahasa JavaScript itu sendiri, terisolasi dari peramban atau lingkungan lainnya. Setiap konsep yang dipelajari di sini adalah prasyarat mutlak untuk semua yang akan datang. Membangun fondasi yang kokoh di sini akan membuat sisa perjalanan menjadi jauh lebih mudah dan lebih bermakna.

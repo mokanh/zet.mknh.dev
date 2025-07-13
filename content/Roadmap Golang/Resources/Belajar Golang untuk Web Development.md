@@ -1,6 +1,3 @@
-# Panduan Belajar Backend Go
-
-## Daftar File Pembelajaran
 
 ### 1. Dasar Golang
 - [[01-Dasar-Golang]]
