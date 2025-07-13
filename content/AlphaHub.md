@@ -1,0 +1,1 @@
+PACS (Picture Archiving and Communication System) and Radiology Management System. I contribute to this project as Full-stack Engineer. I learn a lot of new term used by medical community especially radiologist, like DICOM Protocol, DICOM Server, DICOM Viewer, Orthanc, OHIF, etc.
