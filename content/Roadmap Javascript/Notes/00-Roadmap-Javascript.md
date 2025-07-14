@@ -1,0 +1,5 @@
+1. [[01-Fondasi Utama - Fundamental Inti JavaScript]]
+2. [[02-Menghidupkan Halaman Web - JavaScript di Peramban]]
+3. [[03-Menguasai Asinkronisitas Modern]]
+4. [[04-Perangkat Modern Pengembang]]
+5. [[05-Meningkatkan Skala - Kerangka Kerja dan Jalan ke Depan]]
