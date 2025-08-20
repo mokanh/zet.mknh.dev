@@ -35,7 +35,7 @@ First, create a dedicated folder for your store, for example src/stores. Inside,
 
 **src/stores/authSlice.js**
 
-```JavaScript
+```javascript
 export const createAuthSlice = (set, get) => ({
   token: null,
   user: null,
@@ -78,7 +78,7 @@ export const createCartSlice = (set, get) => ({
 Create a central file, like src/stores/index.js, to combine your slices. This is also the best place to add middleware.
 
 **src/stores/index.js**
-```Javascript
+```javascript
 import { create } from 'zustand';
 import { devtools, persist } from 'zustand/middleware';
 import { createAuthSlice } from './authSlice';
@@ -113,7 +113,7 @@ export const useBoundStore = create(
 Now you can use your single useBoundStore hook anywhere in your app. The best practice here is to use **selectors** to only subscribe components to the state they actually need. This prevents unnecessary re-renders.
 
 **src/components/LoginButton.jsx**
-```Javascript
+```javascript
 import { useBoundStore } from '../stores';
 
 function LoginButton() {
